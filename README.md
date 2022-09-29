@@ -1,3 +1,6 @@
-# ConsultarCEPs
+# ConsultarCEPs.
 
-  - [Clique aqui para acessar o curso na Udemy](https://www.udemy.com/course/webservice-correios/) 
+Web Service dos Correrios para Consulta de CEPs.
+
+Utilizei Windows Form para criar formulário da estrutura fornecida pelos Correrios.
+# C# .NET
