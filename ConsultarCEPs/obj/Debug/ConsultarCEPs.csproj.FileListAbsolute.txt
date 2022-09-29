@@ -1,0 +1,11 @@
+C:\Users\ocant\OneDrive\Área de Trabalho\ConsultarCEPs-master\ConsultarCEPs\bin\Debug\ConsultarCEPs.exe.config
+C:\Users\ocant\OneDrive\Área de Trabalho\ConsultarCEPs-master\ConsultarCEPs\bin\Debug\ConsultarCEPs.exe
+C:\Users\ocant\OneDrive\Área de Trabalho\ConsultarCEPs-master\ConsultarCEPs\bin\Debug\ConsultarCEPs.pdb
+C:\Users\ocant\OneDrive\Área de Trabalho\ConsultarCEPs-master\ConsultarCEPs\obj\Debug\ConsultarCEPs.csproj.AssemblyReference.cache
+C:\Users\ocant\OneDrive\Área de Trabalho\ConsultarCEPs-master\ConsultarCEPs\obj\Debug\ConsultarCEPs.csproj.SuggestedBindingRedirects.cache
+C:\Users\ocant\OneDrive\Área de Trabalho\ConsultarCEPs-master\ConsultarCEPs\obj\Debug\ConsultarCEPs.FrmConsultarCEPs.resources
+C:\Users\ocant\OneDrive\Área de Trabalho\ConsultarCEPs-master\ConsultarCEPs\obj\Debug\ConsultarCEPs.Properties.Resources.resources
+C:\Users\ocant\OneDrive\Área de Trabalho\ConsultarCEPs-master\ConsultarCEPs\obj\Debug\ConsultarCEPs.csproj.GenerateResource.cache
+C:\Users\ocant\OneDrive\Área de Trabalho\ConsultarCEPs-master\ConsultarCEPs\obj\Debug\ConsultarCEPs.csproj.CoreCompileInputs.cache
+C:\Users\ocant\OneDrive\Área de Trabalho\ConsultarCEPs-master\ConsultarCEPs\obj\Debug\ConsultarCEPs.exe
+C:\Users\ocant\OneDrive\Área de Trabalho\ConsultarCEPs-master\ConsultarCEPs\obj\Debug\ConsultarCEPs.pdb
