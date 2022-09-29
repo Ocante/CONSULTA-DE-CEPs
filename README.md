@@ -1,4 +1,4 @@
-# ConsultarCEPs.
+# Consultar_CEPs/Código postal
 
 Web Service dos Correrios para Consulta de CEPs.
 
